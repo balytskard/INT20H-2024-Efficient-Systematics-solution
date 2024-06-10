@@ -1,0 +1,10 @@
+ast-tools
+dlib
+glob2
+matplotlib
+numpy
+opencv-python
+pandas
+pillow
+shutil
+tqdm
